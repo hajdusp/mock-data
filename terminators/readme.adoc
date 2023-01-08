@@ -10,6 +10,6 @@ https://cdn.jsdelivr.net/gh/hajdusp/mock-data/terminators/models.mock.js
 .import into React component
 [source, js]
 ----
-import {modelsMock} from 'https://cdn.jsdelivr.net/gh/hajdusp/mock-data/terminators/models.mock.js'
+import {modelsMock} from 'https://cdn.jsdelivr.net/gh/hajdusp/mock-data/terminators/models.mock.js';
 ----
 
