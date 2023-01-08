@@ -2,6 +2,7 @@
 
 == Usage
 .url
+[source]
 ----
 https://cdn.jsdelivr.net/gh/hajdusp/mock-data/terminators/models.mock.js
 ----
